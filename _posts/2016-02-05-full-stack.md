@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why you can't just have full stack developers
+title: You can't just have full stack developers
 excerpt: "Hiring full stack developers doesn't mean better software."
 tags: [software, engineer, full-stack]
 comments: true
