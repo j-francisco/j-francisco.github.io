@@ -4,6 +4,7 @@ title: You can't just have full stack developers
 excerpt: "Hiring full stack developers doesn't mean better software."
 tags: [software, engineer, full-stack]
 comments: true
+share: false
 ---
 
 Imagine you were having a new house built, and now it’s time to do the plumbing. Would you have the painters do the plumbing or a professional plumber? Well, the painters have been around houses while the plumbers were working, so they picked up a few pointers on how plumbing works. So why not hire the painters to do the plumbing and call them full stack house builders?
