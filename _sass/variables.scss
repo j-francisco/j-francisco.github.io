@@ -6,9 +6,9 @@
    Typography
    ========================================================================== */
 @import url(https://fonts.googleapis.com/css?family=Ubuntu);
-$doc-font-size: 16;
-$doc-line-height: 26;
-$paragraph-indent: true !default;
+$doc-font-size: 18;
+$doc-line-height: 28;
+$paragraph-indent: false;
 $base-font: 'Ubuntu', sans-serif;
 $heading-font: 'Ubuntu', sans-serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;

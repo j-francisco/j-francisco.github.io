@@ -300,30 +300,29 @@ $button-size: 1.5rem;
 	position: relative;
 	margin-bottom: 2em;
 	@include clearfix;
-	// &:after {
-	// 	content: " ";
-	// 	display: block;
-	// 	position: absolute;
-	// 	bottom: 0;
-	// 	left: 8%;
-	// 	width: 0;
-	// 	height: 0;
-	// 	border: 10px solid transparent;
-	// 	border-bottom-color: $bodycolor;
-	// 	@media #{$small} {
-	// 		left: 25%;
-	// 	}
-	// 	@media #{$large} {
-	// 		border-width: 20px;
-	// 	}
-	// 	@media #{$x-large} {
-	// 		left: 33.333333333%;
-	// 	}
-	// }
+	&:after {
+		content: " ";
+		display: block;
+		position: absolute;
+		bottom: 0;
+		left: 8%;
+		width: 0;
+		height: 0;
+		border: 10px solid transparent;
+		border-bottom-color: $bodycolor;
+		@media #{$small} {
+			left: 25%;
+		}
+		@media #{$large} {
+			border-width: 20px;
+		}
+		@media #{$x-large} {
+			left: 33.333333333%;
+		}
+	}
 	img {
 		width: 100%;
-		// height: auto;
-		height: 300px;
+		height: auto;
 		-ms-interpolation-mode: bicubic;
 	}
 	.headline-wrap {
@@ -464,21 +463,8 @@ $button-size: 1.5rem;
 	}
 
 	p {
-		margin: 0 0 1rem;
-		line-height: 30px;
-		font-size: 18px;
-	}
-
-	p.about-me-text {
-		line-height: 26px;
-		font-size: 16px;
-		margin-bottom: 1rem;
-	}
-
-	footer > p {
-		font-size: 0px + $doc-font-size;
 		line-height: 0px + $doc-line-height;
-		margin: 0 0 $indent-var;
+		font-size: 0px + $doc-font-size;
 	}
 }
 
