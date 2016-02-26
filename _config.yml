@@ -55,9 +55,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  github: j-francisco
+  stackoverflow: 3268304/jeff-f #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: jeff-francisco-a711035
   xing: #username
   instagram: #username
   lastfm: #username
