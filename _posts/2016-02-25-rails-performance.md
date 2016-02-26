@@ -9,7 +9,7 @@ share: false
 
 Rails and Active Record provide plenty of magic to get web applications up and running quickly, which is great. Associations make it easy to write short, readable code that produces complex SQL behind the scenes. That magic can also lead to some inefficiencies that slow down your app. I'll try to explain why and how to do it better in this post.
 
-A common task in Rails is to retrieve data and return it as JSON to your front end. This can be easy in Rails, but if you're not careful you can run into a couple problems. One is that Active Record magic can lead to running too many inefficient queries. The other less obvious problem is that <u>instantiating Active Record objects is expensive.</u> I've put together a little example to demonstrate this and to show how to improve some typical Rails code. 
+A common task in Rails is to retrieve data and return it as JSON to your front end. This can be easy in Rails, but if you're not careful you can run into a couple problems. One is that Active Record magic can lead to running too many inefficient queries. The other less obvious problem is that <i>instantiating Active Record objects is expensive.</i> I've put together a little example to demonstrate this and to show how to improve some typical Rails code. 
 
 For this demo, I'm going to create a new Rails app, create some models, then use the Rails console to insert sample data and measure how long it takes to retrieve the data.
 
