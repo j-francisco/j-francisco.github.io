@@ -7,7 +7,7 @@ comments: true
 share: false
 ---
 
-I'm a software engineer from the Boston area. I graduated from Northeastern University with a BS in Computer Science and have stayed in the area ever since. I was most recently the VP of Engineering at EightSpokes in Cambridge, MA. I left the position to pursue my own thing, but I'm still a consultant and technical advisor to EightSpokes. I was previously a senior software engineer at Oracle and Phase Forward.
+I'm a software developer from the Boston area. I graduated from Northeastern University with a BS in Computer Science and have stayed in the area ever since. I was most recently the VP of Engineering at EightSpokes in Cambridge, MA. I left the position to pursue my own thing, but I'm still a consultant and technical advisor to EightSpokes. I was previously a Senior Software Engineer at Oracle and Phase Forward.
 
 I'm currently specializing in web development with Ruby on Rails and javascript frameworks like Backbone.js. I'm also experienced with object oriented design, web services and data modeling.
 
