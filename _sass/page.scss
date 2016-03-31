@@ -761,3 +761,31 @@ $button-size: 1.5rem;
 #goog-wm-sb {
 	@extend .btn;
 }
+
+
+/* Portfolio styles */
+
+.panel-group .panel.portfolio-panel {
+	margin-bottom: 20px;
+}
+
+.portfolio-item-title {
+	text-align: center;
+	display: block;
+}
+
+.portfolio-item-img {
+	height: 30px;
+}
+
+.carousel-inner>.item>a>img.portfolio-screenshot {
+	margin: auto;
+}
+
+#launchsource-carousel>.carousel-inner>.item>a>img.portfolio-screenshot {
+	max-height: 260px;
+}
+
+.panel-body > .carousel {
+	margin-top: 20px;
+}
