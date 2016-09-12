@@ -189,9 +189,9 @@ end
 > School.print_school_faster
 > ... school gets printed ...
 > Total time: 0.072936
-> School.print_school_less_slowly
+> School.print_school_faster
 > Total time: 0.075538
-> School.print_school_less_slowly
+> School.print_school_faster
 > Total time: 0.068242
 {% endhighlight %}
 
@@ -237,9 +237,9 @@ end
 > School.print_school_fastest
 > ... school gets printed ...
 > Total time: 0.018738
-> School.print_school_less_slowly
+> School.print_school_fastest
 > Total time: 0.018821
-> School.print_school_less_slowly
+> School.print_school_fastest
 > Total time: 0.019621
 {% endhighlight %}
 
