@@ -1,4 +1,4 @@
-# Code and Whatnot
+# JF Software
 
 This is my personal site where I'll be blogging and keeping a portfolio of projects I've worked on.
 
