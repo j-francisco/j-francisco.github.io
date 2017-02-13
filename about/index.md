@@ -9,7 +9,9 @@ share: false
 
 I'm a software developer from the Boston area and sole proprietor of JF Software LLC.
 I plan, design and develop software for various industries, from prototypes and MVPs to large scale,
-mature products. I started an LLC to provide software development consulting to start-ups and medium-size companies. 
+mature products.
+
+I started an LLC to provide software development consulting to start-ups and medium-size companies. 
 I was most recently the VP of Engineering at EightSpokes in Cambridge, MA. 
 Prior to that I was a Senior Software Engineer at Oracle and Phase Forward.
 I graduated from Northeastern University with a BS in Computer Science and have stayed in the area ever since.
